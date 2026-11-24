@@ -1,0 +1,7 @@
+# apenas o codigo vai para o repositorio
+*.pdf
+*.zip
+artigo/
+nbody/results/
+__pycache__/
+*.pyc
